@@ -1,0 +1,19 @@
+{
+    "name": "spotwilliams/miscellaneous",
+    "description": "Free project to test things that probably didn't know about it",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Spotwilliams\\Miscellaneous\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Richard Vergara",
+            "email": "ricardo.vergara@adeva.co"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
